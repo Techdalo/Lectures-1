@@ -1,1 +1,2 @@
-# Lectures-1
+# Lecture 1
+This is the first trial Lecture
